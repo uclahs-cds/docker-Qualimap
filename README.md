@@ -11,14 +11,14 @@ Dockerfile for Qualimap, a "a platform-independent application written in Java a
 ## Discussions
 
 - [Issue tracker](https://github.com/uclahs-cds/docker-Qualimap/issues) to report errors and enhancement ideas.
-- Discussions can take place in [docker-Qualimap> Discussions](https://github.com/uclahs-cds/docker-Qualimap/discussions)
-- [docker-Qualimap> pull requests](https://github.com/uclahs-cds/docker-Qualimap/pulls) are also open for discussion
+- Discussions can take place in [docker-Qualimap Discussions](https://github.com/uclahs-cds/docker-Qualimap/discussions)
+- [docker-Qualimap pull requests](https://github.com/uclahs-cds/docker-Qualimap/pulls) are also open for discussion
 
 ---
 
 ## Contributors
 
-Please see list of [Contributors](https://github.com/uclahs-cds/docker-Qualimap/blob/main/link-to-contributors-insights) at GitHub.
+Please see list of [Contributors](https://github.com/uclahs-cds/docker-Qualimap/graphs/contributors) at GitHub.
 
 ---
 
