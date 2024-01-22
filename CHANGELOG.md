@@ -8,8 +8,12 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ---
 
 ## [Unreleased]
+### Added
+
 ### Changed
 
-## Added
+## [2.3] - 2024-01-22
+
+### Added
 - Repository template from [template-docker](https://github.com/uclahs-cds/template-docker)
 - `Qualimap` from bioconda
